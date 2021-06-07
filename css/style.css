@@ -1,6 +1,7 @@
 body {
 	background-color: #F6F8F9;
 	padding-top: 45px;
+  font-family: 'Roboto', sans-serif;
 }
 .wrapper {
 	position: fixed;
@@ -13,10 +14,10 @@ body {
 	display: inline-block;
 	margin-top: 18px;
 	margin-left: 20px;
-	font-size: 13px;
+	font-size: 15px;
 	color: #FA6980;
 	text-transform: uppercase;
-	font-family: 'helvetica';
+	font-family: 'Roboto', sans-serif;
 	font-weight: bold;
 }
 .nav {
@@ -27,7 +28,7 @@ body {
 	display: inline-block;
 	margin-top: 20px;
 	text-transform: uppercase;
-	font-family: 'helvetica';
+	font-family: 'Roboto', sans-serif;
 	font-weight: bold;
 	font-size: 14px;
 }
@@ -52,7 +53,7 @@ body {
 	color: #343638;
 }
 .trending h2 {
-	font-family: 'helvetica';
+	font-family: 'Roboto', sans-serif;
 	font-size: 24px;
 	font-weight: bold;
 	text-transform: uppercase;
@@ -73,7 +74,7 @@ body {
 	vertical-align: center;
 	margin-left: 40px;
 	margin-top: 66px;
-	font-family: 'helvetica';
+	font-family: 'Roboto', sans-serif;
 	font-size: 13px;
 	color: #A6ADB4;
 }
@@ -102,7 +103,7 @@ body {
 	margin-left: 40px;
 }
 .time {
-	font-family: 'helvetica';
+	font-family: 'Roboto', sans-serif;
 	font-size: 13px;
 	color: #A6ADB4;
 	display: inline-block;
@@ -143,22 +144,22 @@ body {
 	background-color: #A6ADB4;
 	position: relative;
 }
-.footer-nav {
+.footern{
 	width: 486px;
-	padding-top: 56px;
+	padding-top: 40px;
 	margin-left: 142px;
 }
 .footer-logo {
 	color: #FFF;
 	font-size: 13px;
-	font-family: 'helvetica';
+	font-family: 'Roboto', sans-serif;
 	text-transform: uppercase;
 	font-weight: bolder;
 }
 .ul {
 	display: inline-block;
 	vertical-align: top;
-	font-family: 'helvetica';
+	font-family: 'Roboto', sans-serif;
 	font-size: 13px;
 	font-weight: bold;
 	text-transform: capitalize;
@@ -180,7 +181,7 @@ body {
 }
 .footer-para {
 	color: #CBD0D3;
-	font-family: 'helvetica';
+	font-family: 'Roboto', sans-serif;
 	font-size: 13px;
 	font-weight: bold;
 	display: inline-block;
